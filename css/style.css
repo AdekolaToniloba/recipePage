@@ -307,11 +307,32 @@ footer a:hover {
     }
 
     h1 {
-        font-size: 36px;
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    h5 {
+        font-size: 10px;
+    }
+
+    h6 {
+        font-size: 8px;
     }
 
     .paragraph p {
-        width: 399px;
+        width: 320px;
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    .head {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .sub-head {
+        font-size: 16px;
+        line-height: 21px;
     }
 
     .image img {
@@ -327,44 +348,48 @@ footer a:hover {
     }
 
     .card {
-        width: 440px;
+        width: 399px;
         height: 167px;
         background: #FFFFFF;
         box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
-        border-radius: 12px;
+        border-radius: 10px;
         margin-bottom: 24px;
     }
 
     .view {
         display: flex;
     }
+    i{
+        margin: 0 10px;
+    }
 
     .top-one {
         position: absolute;
         left: 0;
-        top: 585.75px;
+        top: 455.75px;
+        margin-top: 30px;
     }
 
     .two {
         position: absolute;
         left: 0px;
-        top: 655.75px;
+        top: 565.75px;
     }
 
     .three {    
         position: absolute;
-        left: 122px;
-        top: 655.75px;
+        left: 130px;
+        top: 565.75px;
     }
 
     .four {
         position: absolute;
         left: 252px;
-        top: 655.75px;
+        top: 565.75px;
     }
 
     .box {
-        width: 399px;
+        width: 320px;
         font-size: 14px;
     }
 
@@ -375,7 +400,13 @@ footer a:hover {
     }
 
     .inst p {
-        width: 399px;
+        width: 320px;
     }
+
+    a {
+        font-size: 12px;
+    }
+
+
     
 }
