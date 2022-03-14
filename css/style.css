@@ -337,7 +337,7 @@ footer a:hover {
 
     .image img {
         margin-top: 40px;
-        width: 440px;
+        width: 100%;
         height: 270px;
         margin-bottom: 48px;
     }
@@ -348,7 +348,7 @@ footer a:hover {
     }
 
     .card {
-        width: 399px;
+        width: 100%;
         height: 167px;
         background: #FFFFFF;
         box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
@@ -405,6 +405,7 @@ footer a:hover {
 
     a {
         font-size: 12px;
+        width: 320px;
     }
 
 
