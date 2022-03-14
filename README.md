@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Interior Consultant</h1>
+<h1 align="center">Recipe Blog</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U" target="_blank">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht" target="_blank">
       Challenge
     </a>
   </h3>
@@ -37,7 +37,9 @@
 ## Overview
 -  DeskTop View
 ![screenshot](https://i.ibb.co/xJX8g6M/screenbud-9c618c20-bba5-49ed-8a8b-e6b2d8711e42.png)
+
 -  Mobile View
+<br>
 ![screenshot](https://i.ibb.co/GMNNhrY/screenbud-6e3e218a-6de4-4eb8-8e99-2e4c19852565.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
@@ -58,7 +60,7 @@ https://rcpblog.netlify.app/
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht) was to build an application to complete the given user stories.
 
 
 ## Acknowledgements
