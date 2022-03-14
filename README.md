@@ -39,10 +39,8 @@
 ![screenshot](https://i.ibb.co/xJX8g6M/screenbud-9c618c20-bba5-49ed-8a8b-e6b2d8711e42.png)
 
 -  Mobile View
-<br>
-![screenshot](https://i.ibb.co/GMNNhrY/screenbud-6e3e218a-6de4-4eb8-8e99-2e4c19852565.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+![screenshot](https://i.ibb.co/GMNNhrY/screenbud-6e3e218a-6de4-4eb8-8e99-2e4c19852565.png)
 
 - Where can I see your demo? => [here](https://rcpblog.netlify.app/)
 - What was your experience? => It was a good experience, I had to get more into Css Layouts in this one. particulary flexbox.
